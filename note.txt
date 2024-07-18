@@ -10,3 +10,10 @@ git push -u origin master
 
 --- đẩy lần 2 trở đi 
 git push 
+
+--- xem các nhánh đang có trong máy 
+git branch
+
+--- merge nhánh (gom code) từ login về master ( đứng tại nhánh master )
+
+git merge login 

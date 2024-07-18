@@ -5,7 +5,7 @@
 --- đẩy lần đầu
 git add -A 
 git commit -m "create home page html"
-git push -u origin master
+git push -u origin [tên nhánh hiện tại]
 
 
 --- đẩy lần 2 trở đi 

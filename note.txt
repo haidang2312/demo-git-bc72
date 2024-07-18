@@ -1,5 +1,12 @@
 --- đẩy code từ local lên remote
 
+
+
+--- đẩy lần đầu
 git add -A 
 git commit -m "create home page html"
 git push -u origin master
+
+
+--- đẩy lần 2 trở đi 
+git push 
